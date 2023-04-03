@@ -2,9 +2,6 @@
 
 A simple tcp pinger writen in python using socket
 
-![image1](https://pat.femboys-arent.gay/uB46M17o)
+![image1](https://cdn.upload.systems/uploads/Odm8sqQR.png)
 
-![image2](https://pat.femboys-arent.gay/4h8bxxXH)
-
-
-
+![image2](https://cdn.upload.systems/uploads/4h8bxxXH.png)
